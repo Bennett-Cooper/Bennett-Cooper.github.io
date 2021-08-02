@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: image grid
+title: HAPPY BIRTHDAY JENNIFER!
 email: b3nc00p@gmail.com
 description: >- # this means to ignore newlines until "baseurl:" Add your site description here in the _config.yml file. It will appear in your document head meta (for Google search results) and title of the website (in browser tabs).
-  example site for jekyll-theme-image-grid by jirrian
+  Bennett's site
 baseurl: "" # the subpath of your site, e.g. /blog. leave blank if this is your main github pages repository
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,10 +31,10 @@ remote_theme: jirrian/jekyll-theme-image-grid@main
 
 # generate social links in footer
 social_links:
-  #twitter: queefape
-  #github: jirrian
+  #twitter: 
+  github: Bennett-Cooper
   # facebook: jekyll
-  #instagram: ada.wrong
+  instagram: bennett_cooper
   # linkedin: jekyll
   # pinterest: jekyll
   # youtube: jekyll
